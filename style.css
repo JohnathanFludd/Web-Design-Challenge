@@ -1,0 +1,145 @@
+header{
+  background-color: white;
+  margin-bottom: 50px;
+
+}
+
+body{
+background-color: lightgrey;
+}
+header button{
+  background-color: aqua;
+  color:white;
+
+}
+
+/* .column{
+  background-color: white;
+  margin: 10px;
+} */
+
+
+/* .col-md-6{
+
+  margin: 10px;
+  background-color: red;
+
+} */
+
+
+
+/* .img{
+
+  background-color: pink;
+  margin: 10px;
+} */
+
+
+/* img{
+  max-height:100%;
+  max-width:100%;
+  background-color: pink;
+} */
+/* 
+.container{
+  background-color: greenyellow;
+} */
+
+
+.img-main{
+  height: 200px;
+  width: 200px;
+
+}
+
+
+
+.nav-image{
+height: 200px;
+width: 200px;
+
+}
+
+
+/* img.img-side{
+
+width: 250px;
+height: 250px;
+
+} */
+
+
+.box{
+
+background-color: lightblue;
+
+}
+/* header p{
+/* align-content: center; 
+} */
+
+
+.container a {
+  color:black;
+  cursor: pointer;
+}
+
+
+
+
+/* .col-6{
+  background-color: white;
+  
+} */
+
+a:hover {
+  color: yellow;
+  background-color: yellow;
+}
+
+
+/* a{
+  cursor: pointer;
+} */
+
+
+
+h1{
+  padding: 20px;
+  color: aqua;
+  font-weight: bolder;
+  font-size: 25px;
+}
+
+
+/* 
+table{
+
+} */
+
+
+.navbar-brand{
+
+  font-weight: bold;
+  padding: 10px;
+  background-color: aquamarine;
+}
+
+@media (max-width: 1200px) {
+  body {
+    background: blue;
+  } 
+}
+
+
+
+@media (max-width: 600px) {
+  body {
+    background: purple;
+  } 
+}
+
+
+
+
+
