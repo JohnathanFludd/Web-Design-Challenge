@@ -92,10 +92,7 @@ background-color: lightblue;
   
 } */
 
-a:hover {
-  color: yellow;
-  background-color: yellow;
-}
+
 
 
 /* a{
@@ -125,19 +122,6 @@ table{
   background-color: aquamarine;
 }
 
-@media (max-width: 1200px) {
-  body {
-    background: blue;
-  } 
-}
-
-
-
-@media (max-width: 600px) {
-  body {
-    background: purple;
-  } 
-}
 
 
 
